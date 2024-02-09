@@ -1,0 +1,215 @@
+{
+  "project_info": {
+    "project_number": "938490442656",
+    "firebase_url": "https://core-calculator.firebaseio.com",
+    "project_id": "core-calculator",
+    "storage_bucket": "core-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938490442656:android:6965ef9f88969d0bd4aac5",
+        "android_client_info": {
+          "package_name": "com.asint.corecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938490442656-cq81sos54g3m193rm7sngksfjntr1rem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFLkmh-bOWtB-3K4yAdRipXWS5-izbZIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938490442656-cq81sos54g3m193rm7sngksfjntr1rem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "938490442656-2s230oipl9scmhkhd8uboldjvnqqas6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asint.inspection",
+                "app_store_id": "1438397627"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938490442656:android:a204bd2090b403ced4aac5",
+        "android_client_info": {
+          "package_name": "com.asint.coreinspection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938490442656-2tp5iu2f8fh035vmqei80jpsnsrpc191.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asint.coreinspection",
+            "certificate_hash": "644e8235c9f3b106bcc271105f2a393f0ef7a66e"
+          }
+        },
+        {
+          "client_id": "938490442656-gv9rvcioioqaoffsm10tmd3n548s3sb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asint.coreinspection",
+            "certificate_hash": "72fb60a9cc9593ab280a66eb361593440c7dae21"
+          }
+        },
+        {
+          "client_id": "938490442656-v5vp8l8l7k6khnpvnaqf96m42a0kcg3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asint.coreinspection",
+            "certificate_hash": "90a457bb66b6e0cbc798763e8483182262656463"
+          }
+        },
+        {
+          "client_id": "938490442656-cq81sos54g3m193rm7sngksfjntr1rem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFLkmh-bOWtB-3K4yAdRipXWS5-izbZIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938490442656-cq81sos54g3m193rm7sngksfjntr1rem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "938490442656-2s230oipl9scmhkhd8uboldjvnqqas6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asint.inspection",
+                "app_store_id": "1438397627"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938490442656:android:7d06312b1117797cd4aac5",
+        "android_client_info": {
+          "package_name": "com.example.phone_otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938490442656-cq81sos54g3m193rm7sngksfjntr1rem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFLkmh-bOWtB-3K4yAdRipXWS5-izbZIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938490442656-cq81sos54g3m193rm7sngksfjntr1rem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "938490442656-2s230oipl9scmhkhd8uboldjvnqqas6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asint.inspection",
+                "app_store_id": "1438397627"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938490442656:android:3e03ad0c53bb8a2cd4aac5",
+        "android_client_info": {
+          "package_name": "io.asint.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938490442656-610462fsi3frng5ku87n0bisaaqdv3oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.asint.starter",
+            "certificate_hash": "abcf7ab5f041974fefa3c882d7a1c852aef45b6b"
+          }
+        },
+        {
+          "client_id": "938490442656-fbetvauga9dp7kb9no71qfsqvuo3gqo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.asint.starter",
+            "certificate_hash": "e43e1434c8b19625f514512d42931cc4c2663e42"
+          }
+        },
+        {
+          "client_id": "938490442656-genqbgvaf6pcth6bj3bh434vhm4j41uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.asint.starter",
+            "certificate_hash": "7bd7ce23e8873d4b46814e1a8bae3c2eb27aa74c"
+          }
+        },
+        {
+          "client_id": "938490442656-mctg3h4b7co97kugdo4guagijciqsvtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.asint.starter",
+            "certificate_hash": "90a457bb66b6e0cbc798763e8483182262656463"
+          }
+        },
+        {
+          "client_id": "938490442656-cq81sos54g3m193rm7sngksfjntr1rem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFLkmh-bOWtB-3K4yAdRipXWS5-izbZIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938490442656-cq81sos54g3m193rm7sngksfjntr1rem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "938490442656-2s230oipl9scmhkhd8uboldjvnqqas6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asint.inspection",
+                "app_store_id": "1438397627"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
