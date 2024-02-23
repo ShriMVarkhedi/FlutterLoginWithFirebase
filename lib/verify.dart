@@ -11,12 +11,9 @@ class MyVerify extends StatefulWidget {
 }
 
 class _MyVerifyState extends State<MyVerify> {
-
   final FirebaseAuth auth = FirebaseAuth.instance;
   @override
   Widget build(BuildContext context) {
-
-
     var code = "";
     return Scaffold(
       extendBodyBehindAppBar: true,
@@ -65,7 +62,7 @@ class _MyVerifyState extends State<MyVerify> {
                 // defaultPinTheme: defaultPinTheme,
                 // focusedPinTheme: focusedPinTheme,
                 // submittedPinTheme: submittedPinTheme,
-                onChanged: (value){
+                onChanged: (value) {
                   code = value;
                 },
                 showCursor: true,
@@ -83,16 +80,17 @@ class _MyVerifyState extends State<MyVerify> {
                         backgroundColor: Colors.green.shade600,
                         shape: RoundedRectangleBorder(
                             borderRadius: BorderRadius.circular(10))),
-                    onPressed: () async{
-                      try{
-                        PhoneAuthCredential credential = PhoneAuthProvider.credential(verificationId: MyPhone.verify, smsCode: code);
+                    onPressed: () async {
+                      try {
+                        PhoneAuthCredential credential =
+                            PhoneAuthProvider.credential(
+                                verificationId: MyPhone.verify, smsCode: code);
 
                         // Sign the user in (or link) with the credential
                         await auth.signInWithCredential(credential);
-                      // ignore: empty_catches
-                      } catch(e){
-
-                      }
+                        print(credential.accessToken);
+                        // ignore: empty_catches
+                      } catch (e) {}
                     },
                     child: const Text("Verify Phone Number")),
               ),

@@ -113,6 +113,30 @@
       },
       "oauth_client": [
         {
+          "client_id": "938490442656-2m0lr2js3g9e900glft13b8jtk3f8qkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_otp",
+            "certificate_hash": "77bc91010efd7908cdc2abdae7a0d4b13342dd28"
+          }
+        },
+        {
+          "client_id": "938490442656-dk7dmdc36fvrheqdirkm5h6aum439vv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_otp",
+            "certificate_hash": "5ec7ed1ed0d2c3cb220cd020992b9a80c2f70318"
+          }
+        },
+        {
+          "client_id": "938490442656-pb8vivbskcemindbrnpkf4q3kotaiia8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phone_otp",
+            "certificate_hash": "90a457bb66b6e0cbc798763e8483182262656463"
+          }
+        },
+        {
           "client_id": "938490442656-cq81sos54g3m193rm7sngksfjntr1rem.apps.googleusercontent.com",
           "client_type": 3
         }
